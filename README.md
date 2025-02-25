@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Header](https://github.com/estefibntz/estefibntz/blob/main/Imagen%20de%20WhatsApp%202025-02-25%20a%20las%2018.43.29_f5b3e433.jpg)
 
 <!--
 **estefibntz/estefibntz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
