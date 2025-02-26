@@ -14,4 +14,4 @@
 
 ## / GitHub Stats /
 
-<img src="https://github-readme-stats.vercel.app/api?username=estefibntz&show_icons=true&theme=chartreuse-dark&card_width=250" />
+<img src="https://github-readme-stats.vercel.app/api?username=estefibntz&show_icons=true&theme=chartreuse-dark&card_width=150" />
