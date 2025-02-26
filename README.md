@@ -12,6 +12,4 @@
 <h2> / Languages / </h2>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
-## / GitHub Stats /
 
-<img src="https://github-readme-stats.vercel.app/api?username=estefibntz&show_icons=true&theme=chartreuse-dark&card_width=100" />
